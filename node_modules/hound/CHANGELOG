@@ -1,0 +1,287 @@
+2016-01-19 - 0.2.1 (1694a0a)
+1694a0a (HEAD, master) soundhound-speex update
+2549cd5 (origin/master) readme edits
+277df68 Readme edit
+0860d55 expose signToken() in hound-web-sdk-node
+1a4b106 add generateAuthHeaders() to hound-web-sdk & grunt task mod
+a213926 Audio file decode error message
+c4383ff revert bundling changes for now
+c74c3b3 better bundling
+50f93ce example project
+6197507 (tag: v0.2.0) 0.2.0
+
+
+2015-12-14 - 0.2.0 (196a1a0)
+196a1a0 (HEAD, tag: v0.1.8, master) 0.1.8
+
+
+2015-12-14 - 0.1.8 (f0a6b89)
+f0a6b89 (HEAD, tag: v0.1.7, master) 0.1.7
+
+
+2015-12-14 - 0.1.7 (34a91fc)
+34a91fc (HEAD, master) clean up + readme + checks
+6102f8c checks added
+6fa6bb2 cleaner html
+d29d621 script tag fix
+2ae580c (origin/master) initial developer readme
+2a31806 clearer server output
+3d53fff (tag: v0.1.6) 0.1.6
+
+
+2015-12-09 - 0.1.6 (dbd746c)
+dbd746c (HEAD, master) version
+7016ff1 error handling
+3f46e49 (tag: v0.1.5) 0.1.5
+
+
+2015-12-09 - 0.1.5 (3ea853e)
+3ea853e (HEAD, tag: v0.1.4, origin/master, master) 0.1.4
+
+
+2015-12-09 - 0.1.4 (e674248)
+e674248 (HEAD, master) audiocontext init
+fbe03d4 (tag: v0.1.3, origin/master) 0.1.3
+
+
+2015-12-09 - 0.1.3 (dad0acd)
+dad0acd (HEAD, origin/master, master) cleanup + readme
+7d0c522 (tag: v0.1.2) 0.1.2
+
+
+2015-12-08 - 0.1.2 (c108d35)
+c108d35 (HEAD, master) version
+b7d28ee file upload + refactoring
+03bb5fc (tag: v0.1.1) 0.1.1
+
+
+2015-12-08 - 0.1.1 (3b5f355)
+3b5f355 (HEAD, origin/master, master) enableVAD flag added
+d1d736e cleanup
+e9a407d error handling
+fd4a232 (tag: v0.1.0) 0.1.0
+
+
+2015-11-09 - 0.1.0 (3820017)
+3820017 (HEAD, origin/master, master) request info fields
+e10c34a (tag: v0.0.26) 0.0.26
+
+
+2015-11-09 - 0.0.26 (0eee7a4)
+0eee7a4 (HEAD, master) this bug
+d272b75 (tag: v0.0.25, origin/master) 0.0.25
+
+
+2015-11-06 - 0.0.25 (919705b)
+919705b (HEAD, master) dist
+a0e4524 (tag: v0.0.24, origin/master) 0.0.24
+
+
+2015-11-06 - 0.0.24 (9e6f770)
+9e6f770 (HEAD, master) conv state patch
+8687fee (tag: v0.0.23, origin/master) 0.0.23
+
+
+2015-11-06 - 0.0.23 (76d49c2)
+76d49c2 (HEAD, master) cleanup
+0eb9252 (tag: v0.0.22) 0.0.22
+
+
+2015-11-06 - 0.0.22 (c430c2d)
+c430c2d (HEAD, origin/master, master) dist task
+eb01371 dist task
+0a6a79d (tag: v0.0.21) 0.0.21
+
+
+2015-11-06 - 0.0.21 (786cab4)
+786cab4 (HEAD, master) Conversation State documentation
+962cce8 (origin/master) external conversation state object
+df67e10 (tag: v0.0.20) 0.0.20
+
+
+2015-11-05 - 0.0.20 (f962822)
+f962822 (HEAD, master) destroying voice search object
+867aeb1 (tag: v0.0.19, origin/master) 0.0.19
+
+
+2015-11-05 - 0.0.19 (730c6a3)
+730c6a3 (HEAD, origin/dev, master, dev) gitignore fix
+49ee896 auth fix
+01b7911 (tag: v0.0.18) 0.0.18
+
+
+2015-11-05 - 0.0.18 (c7e6f36)
+c7e6f36 (HEAD, origin/dev, dev) grunt tasks
+ec2a3b4 readme
+38056af npmignore check
+fa8098b cleanup
+ba8c3cb cleaned up example
+234ba8f init
+fcb3e4d (origin/master, master) test publish folder
+98fe8e1 npmignore
+f394038 (tag: v0.0.17) 0.0.17
+
+
+2015-10-21 - 0.0.17 (3b0caa0)
+3b0caa0 (HEAD, origin/master, master) npm ignore
+f65dca4 (tag: v0.0.16) 0.0.16
+
+
+2015-10-21 - 0.0.16 (3a73b1d)
+3a73b1d (HEAD, origin/master, master) grunt fix & cleanup
+9a21c12 (origin/publish, publish) publish
+a15af9b initial
+1abb798 (tag: v0.0.15) 0.0.15
+
+
+2015-10-19 - 0.0.15 (b4b533d)
+b4b533d (HEAD, master) optimization
+122b49d (tag: v0.0.14, origin/master) 0.0.14
+
+
+2015-10-16 - 0.0.14 (f3bb675)
+f3bb675 (HEAD, origin/master, master) search type in info object
+53b9796 (tag: v0.0.13) 0.0.13
+
+
+2015-10-16 - 0.0.13 (6221329)
+6221329 (HEAD, origin/master, master) error message format
+37a243f error handling
+0f0db56 (tag: v0.0.12) 0.0.12
+
+
+2015-10-15 - 0.0.12 (b328547)
+b328547 (HEAD, master) proxy method
+1058bd9 (tag: v0.0.11, origin/master) 0.0.11
+
+
+2015-10-02 - 0.0.11 (6bba897)
+6bba897 (HEAD, master) onAudioFrame listener support added
+95af6df (tag: v0.0.10, origin/master) 0.0.10
+
+
+2015-09-28 - 0.0.10 (d3e9e75)
+d3e9e75 (HEAD, master) deprecation + logging
+2fed8f3 (origin/master) example server setup
+aa8b681 clean up
+904975c reorganize
+0125f65 (tag: v0.0.9) 0.0.9
+
+
+2015-09-25 - 0.0.9 (dc1f765)
+dc1f765 (HEAD, origin/master, master) cleanup
+974a770 derequire
+a0550d4 standalone
+1ac01a1 cleanup
+1c0a92f testing module
+3205850 fix
+9eaf8cc name
+083f917 package fix
+c82fba2 package fixed
+6542f73 testing prod
+448f3ef prod
+8a88abc revert uglify
+bbc33b8 revert
+4e414a8 minify & comments
+16757c5 partial transcripts always on, no response otherwise
+91c2ebd preventing exception on safari
+63fd03f cleanup
+37e0c96 revert ok hound
+4f662df (ok-hound) ok hound initial
+ea125c8 optimization
+24b9b13 small change
+be77444 small change
+0db38ee html data
+e49de54 dynamic response handling
+732e783 small refactoring
+bd0c866 merge + refactoring
+18c6e2b playback fix
+205d0cb wb mode fixed
+8880090 client id for logging
+1b17f6a dependency fix
+a00ad88 speex 16khz
+a558249 removed clientid from request info
+08c2d41 client id in request info
+1871279 buffering fixed
+ff98a5a eoa fixed
+a3d612f error messages, buffering
+a77eecb https
+3727fc5 error msg
+1cf7ea2 proxy headers
+77752e9 initial play recording
+865bb7c cleanup
+f5eef9a speec synthesis + AudioContext bug
+11930e1 small bug fixes
+514a8b8 client id, firefox support
+639f9ba (tag: v0.0.6) 0.0.6
+
+
+2015-08-14 - 0.0.6 (bc70ded)
+bc70ded (HEAD, origin/master, master) Demo ui
+2e32372 (tag: v0.0.5) 0.0.5
+
+
+2015-08-13 - 0.0.5 (f29ec84)
+f29ec84 (HEAD, origin/master, master) merge
+4553b13 websocket refactoring
+69a13db (tag: v0.0.4) 0.0.4
+
+
+2015-08-13 - 0.0.4 (febc882)
+febc882 (HEAD, origin/master, master) comments
+095b9ed text search onError
+b910de7 reorganize
+5e30a51 (tag: v0.0.3) 0.0.3
+
+
+2015-08-12 - 0.0.3 (ea2fbd1)
+ea2fbd1 (HEAD, origin/master, master) client info can be passed from front-end
+2115973 small changes
+69bb29a project
+98ce86b project setup
+a065b97 project setup
+dc03855 (tag: v0.0.2) 0.0.2
+
+
+2015-08-12 - 0.0.2 (ac7c730)
+ac7c730 (HEAD, master) npm modules initial
+a392bb8 refactoring
+ad7c5d5 (origin/master) conversation state example 2, request info example
+79792b6 initial conversation state
+b1d4349 refactoring
+1702d4a cleanup
+02f2661 reorganize
+223408f package.json
+0472c65 reorganize
+59d8aa7 cleanup
+8fb0707 event dispatcher
+36ac083 comments
+b03c300 ui
+2c3c1d8 ui change
+a3990eb test page
+6840bb2 cleanup
+10cfc8d small fix:
+5429068 searchInfo
+0fce685 text search proxy
+1707473 authentication
+8978972 stream stop fixed
+1f36b1d initial search state
+550b485 text initial CORS
+3be4a1b small changes
+7408f9b refactoring
+9fb27ff renaming
+c954d8c ?
+c7a1856 listeners, state/event
+686e3ba es6 classes, simple event dispatcher
+18e47f1 VoiceSearch files added
+b4bce04 VoiceSearch initial
+624dbba vad
+1e172d6 fixed audio source connection
+000186d refactoring'
+f2ceeeb refactoring
+7438a7e refactoring
+5e1ca12 refactoring
+4672f9c cleanup
+e9b827c initial
+
+
